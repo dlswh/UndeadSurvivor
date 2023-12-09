@@ -5,6 +5,7 @@ Youtube 골드메탈님의 Undead Surviver 강의를 참고하여 제작한 게�
 
 # 개요
 - 기간: 2023.04 ~ 2023.06
+- 개발 인원: 3인
 - 개발 엔진 및 언어: Unity & C#
 - 플랫폼: Android
 
