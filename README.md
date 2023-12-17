@@ -15,3 +15,10 @@
 <img src = "https://github.com/dlswh/UndeadSurviver/assets/134590362/03b0f942-a39e-49db-a8ab-4e545f5f0586.png" width = "200" height = "200">
 
 Unity Asset Store에서 캐릭터와 타일 에셋을 구매하고, 유튜버 골드메탈님이 배포하신 무료 에셋을 사용하여 디자인. 
+
+
+###
+시연 영상
+
+https://github.com/dlswh/UndeadSurviver/assets/134590362/22fdb9e0-1f31-4842-a999-f71c400fbc25
+
