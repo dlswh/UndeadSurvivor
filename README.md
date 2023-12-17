@@ -2,11 +2,13 @@
 
 [Youtube 골드메탈님의 Undead Surviver 강의](https://www.youtube.com/watch?v=MmW166cHj54&list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x)를 참고하여 제작한 게임입니다. 
 
+
 ## 개요
 - 기간: 2023.04 ~ 2023.06
 - 개발 인원: 3인
 - 개발 엔진 및 언어: Unity & C#
 - 플랫폼: Android
+
   
 
 ## 프로젝트 소개
@@ -17,8 +19,7 @@
 Unity Asset Store에서 캐릭터와 타일 에셋을 구매하고, 유튜버 골드메탈님이 배포하신 무료 에셋을 사용하여 디자인. 
 
 
-###
-시연 영상(음향有)
 
+### 시연 영상(음향有)
 https://github.com/dlswh/UndeadSurviver/assets/134590362/22fdb9e0-1f31-4842-a999-f71c400fbc25
 
