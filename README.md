@@ -21,6 +21,6 @@ Unity Asset Store에서 캐릭터와 타일 에셋을 구매하고, 유튜버 �
 
 
 ## 시연 영상
-(음향이 있습니다)
+
 https://github.com/dlswh/UndeadSurviver/assets/134590362/22fdb9e0-1f31-4842-a999-f71c400fbc25
 
